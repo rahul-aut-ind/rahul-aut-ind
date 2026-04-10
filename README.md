@@ -1,4 +1,4 @@
-## Rahul Upadhyay — Senior Backend Engineer
+## Rahul Upadhyay — Backend Engineer
 
 **Go · AWS · Distributed Systems · Event-Driven Architecture**  
 
