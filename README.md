@@ -4,7 +4,7 @@
 
 ---
 
-15+ years building backend systems that scale. Right now I'm at **Gymondo (7NXT Group)**, architecting event-driven microservices and serverless pipelines in **Go on AWS** — the kind of work where correctness, throughput, and zero-downtime migrations all matter at the same time.
+15+ years building backend systems that scale. Specialized in Golang, AWS, event-driven architecture, and distributed systems. Currently in Berlin working at Gymondo (7NXT Group), architecting event-driven microservices — from real-time ETL pipelines processing ~80k events/hour to serverless API gateways serving Web, iOS, and Android.
 
 ### Tech I work with daily
 
